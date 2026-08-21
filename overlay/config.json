@@ -1,0 +1,22 @@
+{
+  "mode": "window",
+  "target_title": "Lord of Mysteries",
+  "region": null,
+  "backend": "auto",
+  "ollama_url": "http://127.0.0.1:11434",
+  "ollama_model": "qwen2.5:3b-instruct",
+  "openai_url": "http://127.0.0.1:1234/v1",
+  "openai_model": "local-model",
+  "openai_key": "",
+  "anthropic_model": "claude-sonnet-5",
+  "poll_interval": 0.4,
+  "change_threshold": 3.0,
+  "ocr_side_len": 736,
+  "ocr_threads": 4,
+  "min_conf": 0.55,
+  "min_box_h": 10,
+  "font_size": 18,
+  "opacity": 0.92,
+  "combine_box": false,
+  "show_source": false
+}
